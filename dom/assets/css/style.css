@@ -1,0 +1,60 @@
+.carre {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    background-color: red;
+}
+
+p {
+    width: 40%;
+    margin: 0 auto;
+}
+
+#btnTop {
+    height: 54px;
+    width: 82px;
+    border: none;
+    background-color: red;
+    position: absolute;
+    margin-left: 13%;
+    color: transparent;
+    
+}
+
+#btnLeft {
+    height: 54px;
+    width: 82px;
+    border: none;
+    background-color: blue;
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 7%;
+    color: transparent;
+
+}
+
+#btnRight {
+    height: 54px;
+    width: 82px;
+    border: none;
+    background-color: yellow;
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 19%;
+    color: transparent;
+
+
+}
+
+
+#btnDown {
+    height: 54px;
+    width: 82px;
+    border: none;
+    background-color: green;
+    color: transparent;
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 13%;
+    
+}
