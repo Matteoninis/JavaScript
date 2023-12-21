@@ -1,0 +1,15 @@
+{
+  "name": "botjs",
+  "version": "1.0.0",
+  "description": "bot-discord",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mad Rage",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "fs": "^0.0.1-security"
+  }
+}
